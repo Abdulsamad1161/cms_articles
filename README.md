@@ -18,7 +18,7 @@ Run the following commands to install PHP and Node.js dependencies:
   Install PHP dependencies:
     **composer install**
   Install Node.js dependencies using NPM:
-    **npm install**
+    **npm install** & **npm run dev**
 
 Step 3: Set Up the Database
 
