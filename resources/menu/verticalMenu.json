@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "name": "Articles",
+      "icon": "menu-icon tf-icons bx bx-news",
+      "slug": "articles",
+      "submenu": [
+        {
+          "url": "published-articles",
+          "name": "Published Articles",
+          "slug": "articles.published"
+        },
+        {
+          "url": "draft-articles",
+          "name": "Draft Articles",
+          "slug": "articles.drafts"
+        }
+      ]
+    }
+  ]
+}
